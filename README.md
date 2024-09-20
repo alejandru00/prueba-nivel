@@ -12,15 +12,15 @@
 Utilizando esta nueva técnica extiende la clase Vehiculo y realiza la siguiente
 implementación:
 
-Vehiculo: color, ruedas.
-
--> Coche: velocidad(km/h), cilindrada(cc).
-
-  -> Camioneta: carga(kg).
-
--> Bicicleta: tipo(urbana/deportiva).
-
-  -> Motocicleta: velocidad(km/h), cilindrada(cc).
+	->Vehiculo: color, ruedas.
+	
+		-> Coche: velocidad(km/h), cilindrada(cc).
+				
+			-> Camioneta: carga(kg).
+				
+		-> Bicicleta: tipo(urbana/deportiva).
+				
+			-> Motocicleta: velocidad(km/h), cilindrada(cc).
 
 
 • Crea al menos un objeto de cada subclase y añádelos a una lista
