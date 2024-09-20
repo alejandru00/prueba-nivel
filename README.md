@@ -12,7 +12,7 @@
 Utilizando esta nueva técnica extiende la clase Vehiculo y realiza la siguiente
 implementación:
 
-	->Vehiculo: color, ruedas.
+	-> Vehiculo: color, ruedas.
 	
 		-> Coche: velocidad(km/h), cilindrada(cc).
 				
